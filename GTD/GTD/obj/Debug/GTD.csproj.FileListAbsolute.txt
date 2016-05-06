@@ -1,0 +1,9 @@
+C:\科研立项\GTD\GTD\bin\Debug\GTD.exe.config
+C:\科研立项\GTD\GTD\bin\Debug\GTD.exe
+C:\科研立项\GTD\GTD\bin\Debug\GTD.pdb
+C:\科研立项\GTD\GTD\obj\Debug\GTD.csprojResolveAssemblyReference.cache
+C:\科研立项\GTD\GTD\obj\Debug\GTD.Form1.resources
+C:\科研立项\GTD\GTD\obj\Debug\GTD.Properties.Resources.resources
+C:\科研立项\GTD\GTD\obj\Debug\GTD.csproj.GenerateResource.Cache
+C:\科研立项\GTD\GTD\obj\Debug\GTD.exe
+C:\科研立项\GTD\GTD\obj\Debug\GTD.pdb
